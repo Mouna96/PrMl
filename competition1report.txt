@@ -1,0 +1,5 @@
+Accuracy of LDA is:  0.7673382064539134
+Accuracy of SVM is:  0.7798181494027456
+Accuracy of SVM_RBF is:  0.7798181494027456
+Accuracy of LogReg is:  0.7614548047780353
+Accuracy of RFC is:  0.6093777857015511
